@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>The Shaw Intelligence Briefing</title>
-    <description>Daily strategic macro-level news analysis delivered through a progressive grey-swan mitigation framework.</description>
-    <link>https://github.com/kelumian/Morning-Edition</link>
+    <title>KPR's Morning Edition</title>
+    <description>Daily strategic macro-level news analysis delivered through a progressive grey-swan mitigation framework. Automated intelligence summaries designed to identify systemic blindspots and high-impact global trends before they happen.</description>
+    <
+link>https://github.com/kelumian/Morning-Edition</link>
     <language>en-us</language>
     <itunes:author>Kareem Shaw</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
-</channel>
+    
+    <!-- Fixes for Spotify validation -->
+    <itunes:image href="https://raw.githubusercontent.com/kelumian/Morning-Edition/main/cover.png"/>
+    <itunes:owner>
+      <itunes:name>Kareem Shaw</itunes:name>
+      <itunes:email>kelumian@gmail.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- Dummy Episode for Initial Spotify Verification -->
+    <item>
+      <title>Grey Swan Briefing - Initial Setup</title>
+      <description>Automated strategic summary briefing initializing the distribution pipeline.</description>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 EST</pubDate>
+      <itunes:author>Kareem Shaw</itunes:author>
+      <enclosure url="https://skzgoxgxkwlqumeytura.supabase.co/storage/v1/object/public/podcasts/test.mp3" length="5000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">initial-setup-verification-2026-07-09</guid>
+    </item>
+
+<!-- EPISODES ANCHOR DO NOT REMOVE -->
+  </channel>
 </rss>
