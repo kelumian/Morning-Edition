@@ -13,6 +13,14 @@
           <enclosure url="https://skzgoxgxkwlqumeytura.supabase.co/storage/v1/object/public/podcasts/news_2026-07-17.txt" type="text/plain" length="0"/>
           <guid isPermaLink="false">phone-backup-2026-07-17</guid>
     </item>
+    <item>
+          <title>5H4w Things Considered - 2026-07-17</title>
+          <description>Automated text briefing for 5H4w Things Considered on 2026-07-17.</description>
+          <pubDate>Fri, 17 Jul 2026 17:27:44 EST</pubDate>
+          <itunes:author>Kareem Shaw</itunes:author>
+          <enclosure url="https://skzgoxgxkwlqumeytura.supabase.co/storage/v1/object/public/podcasts/afternoon_news_2026-07-17.txt" type="text/plain" length="0"/>
+          <guid isPermaLink="false">afternoon-backup-2026-07-17</guid>
+    </item>
 <!-- EPISODE_ANCHOR -->
   </channel>
 </rss>
