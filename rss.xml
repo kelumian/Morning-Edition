@@ -21,6 +21,14 @@
           <enclosure url="https://skzgoxgxkwlqumeytura.supabase.co/storage/v1/object/public/podcasts/afternoon_news_2026-07-17.txt" type="text/plain" length="0"/>
           <guid isPermaLink="false">afternoon-backup-2026-07-17</guid>
     </item>
+    <item>
+          <title>Weekend Edition - Grey Swan Torah Framework - Devarim (2026-07-18)</title>
+          <description>Weekend Edition deep script analysis of Parashat Devarim.</description>
+          <pubDate>Sat, 18 Jul 2026 09:24:59 EST</pubDate>
+          <itunes:author>Kareem Shaw</itunes:author>
+          <enclosure url="https://skzgoxgxkwlqumeytura.supabase.co/storage/v1/object/public/podcasts/weekend_torah_2026-07-18_Devarim.txt" type="text/plain" length="0"/>
+          <guid isPermaLink="false">weekend-backup-2026-07-18-devarim</guid>
+    </item>
 <!-- EPISODE_ANCHOR -->
   </channel>
 </rss>
